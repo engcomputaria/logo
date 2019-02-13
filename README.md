@@ -1,8 +1,24 @@
 # EngComputaria Logo
 
-![](./images/engcomputaria.png)
+<p align="center">
+  <img src="./images/engcomputaria.png" style="width: 25%; height: 25%"/>​
+</p>
 
 Este é o repositório que armazena o arquivo xcf da logo do podcast Engenhação da Computaria feito com o GIMP.
+
+# Imagens
+
+| Sombra+Trilhas | Sombra | Sombra+Trilhas+Borda Arredondada | Sombra+Borda Arredondada |
+|:----:|:-------------------:|:----:|:-------------------:|
+| ![](images/engcomputaria_flat_full_tracks.png) | ![](images/engcomputaria_flat_full.png) | ![](images/engcomputaria_flat_tracks.png) | ![](images/engcomputaria_flat.png) |
+
+| Trilhas | Normal | Trilhas+Borda Arredondada | Borda Arredondada |
+|:----:|:-------------------:|:----:|:-------------------:|
+| ![](images/engcomputaria_full_tracks.png) | ![](images/engcomputaria_full.png) | ![](images/engcomputaria_tracks.png) | ![](images/engcomputaria.png) |
+
+| Favicon |
+|:-------:|
+| <img src="./images/engcomputaria_favicon.png" style="width: 25%; height: 25%"/>​ |
 
 # Team
 
