@@ -1,7 +1,7 @@
 # EngComputaria Logo
 
 <p align="center">
-  <img src="./images/engcomputaria.png" style="width: 25%; height: 25%"/>​
+  <img src="./images/engcomputaria.png" style="width: 10%; height: 10%"/>​
 </p>
 
 Este é o repositório que armazena o arquivo xcf da logo do podcast Engenhação da Computaria feito com o GIMP.
@@ -18,7 +18,7 @@ Este é o repositório que armazena o arquivo xcf da logo do podcast Engenhaçã
 
 | Favicon |
 |:-------:|
-| <img src="./images/engcomputaria_favicon.png" style="width: 25%; height: 25%"/>​ |
+| <img src="./images/engcomputaria_favicon.png" style="width: 10%; height: 10%"/>​ |
 
 # Team
 
